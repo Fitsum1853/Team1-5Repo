@@ -1,5 +1,5 @@
-** Technical Documentation **
-Fitsum Handiso - 
-Owen Pick - 
-Jihadu Yassien - 
-Aidan Gardner - 
+### Technical Documentation    
+Fitsum Handiso -     
+Owen Pick -      
+Jihadu Yassien -      
+Aidan Gardner -     
